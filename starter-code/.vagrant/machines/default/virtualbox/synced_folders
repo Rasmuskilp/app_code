@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"C:/Users/Rasmus Kilp/projects/vagrant_102_provisions/starter-code/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Rasmus Kilp/projects/vagrant_102_provisions/starter-code","disabled":false,"__vagrantfile":true}}}
