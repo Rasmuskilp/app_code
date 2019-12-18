@@ -1,0 +1,5 @@
+.vagrant
+aws_keys.txt
+secrets.txt
+ssh_key.something
+app/node_modules*
